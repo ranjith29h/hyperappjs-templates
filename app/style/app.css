@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  html{
+    font-family: sans-serif;
+  }
+  body{
+    background-color: #fafafa;
+  }
+  .app-container{
+    text-align: center;
+    padding: 5%;
+    background-color: #00b7ff;
+    color:#002129;
+  }
+  img{
+    width: 10rem;
+    height: 10rem;
+  }
+  .sub-container{
+    margin-top: 2%;
+  }
